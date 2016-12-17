@@ -7,9 +7,7 @@ struct Person{
 	int shoulder;
 	int head;
 }; 
-int main()
-{
-	
+int main(){
 	Person person;
 	cout << "Person's toes: " << endl;
 	 cin >> person.toes;
