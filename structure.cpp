@@ -16,7 +16,6 @@ int main(){
 	 cin >> person.shoulder;
 	 cout << "Person's head: " << endl;
 	 cin >> person.head;
-	 
 	 cout <<"toes: " << person.toes << endl;
 	 cout <<"knees: " << person.knees << endl;
 	 cout <<"shoulder: " << person.shoulder << endl;
