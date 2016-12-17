@@ -20,7 +20,7 @@ int main()
 	 cout << "Person's head:" << endl;
 	 cin >> person.head;
 	 
-	 cout <<"Toes: " << person.toes << endl;
+	 cout <<"toes: " << person.toes << endl;
 	 cout <<"knees: " << person.knees << endl;
 	 cout <<"shoulder: " << person.shoulder << endl;
 	 cout << "head: " <<person.head << endl;
