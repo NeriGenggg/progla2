@@ -11,13 +11,13 @@ int main()
 {
 	
 	Person person;
-	cout << "Person's toes:" << endl;
+	cout << "Person's toes: " << endl;
 	 cin >> person.toes;
-	 cout << "Person's knees:" << endl;
+	 cout << "Person's knees: " << endl;
 	 cin >> person.knees;
-	 cout << "Person's shoulder:" << endl;
+	 cout << "Person's shoulder: " << endl;
 	 cin >> person.shoulder;
-	 cout << "Person's head:" << endl;
+	 cout << "Person's head: " << endl;
 	 cin >> person.head;
 	 
 	 cout <<"toes: " << person.toes << endl;
