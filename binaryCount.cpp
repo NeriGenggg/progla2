@@ -12,5 +12,5 @@ if (binaryString[i]=='1')
 count=count+1;
 }
 }
-cout << count << endl;
+cout << count;
 }
